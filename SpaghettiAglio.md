@@ -8,3 +8,4 @@ Piatto semplice
 * aglio
 * olio
 * peperoncino
+* prezzemolo
